@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-manager-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/qr-manager-frontend/static/js/main.fdba87ce.js",
+    "static/js/453.ac8f41e2.chunk.js": "/qr-manager-frontend/static/js/453.ac8f41e2.chunk.js",
+    "index.html": "/qr-manager-frontend/index.html",
+    "main.e6c13ad2.css.map": "/qr-manager-frontend/static/css/main.e6c13ad2.css.map",
+    "main.fdba87ce.js.map": "/qr-manager-frontend/static/js/main.fdba87ce.js.map",
+    "453.ac8f41e2.chunk.js.map": "/qr-manager-frontend/static/js/453.ac8f41e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fdba87ce.js"
+  ]
+}
