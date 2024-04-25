@@ -1,10 +1,10 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import MockPage from "../pages/MockPage";
 
-export default createBrowserRouter([
+export default createHashRouter([
     {
         path: "/",
-        element: <div>Home</div>,
+        element: <MockPage />,
     },
     {
         path: "/m/:uuid",
