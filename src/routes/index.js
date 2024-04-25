@@ -3,6 +3,10 @@ import MockPage from "../pages/MockPage";
 
 export default createBrowserRouter([
     {
+        path: "/",
+        element: <div>Home</div>,
+    },
+    {
         path: "/m/:uuid",
         element: <MockPage />,
     },
